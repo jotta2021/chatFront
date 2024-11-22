@@ -18,7 +18,7 @@ const messagesEndRef = useRef(null)
   // Realiza a primeira conexão com o socket
   async function Connect() {
     if (name !== "") {
-      const socket = io.connect("http://localhost:3000");
+      const socket = io.connect("https://chatapi-7yqx.onrender.com");
       socket.emit("join", name);
       setSocket(socket);
     }
