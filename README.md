@@ -1,4 +1,4 @@
-Bem-vindo ao chatInTime 🚀
+##Bem-vindo ao chatInTime 🚀
 O chatInTime é um projeto de chat em tempo real, desenvolvido com o objetivo de aplicar e demonstrar conhecimentos sobre WebSockets e transmissão de dados em tempo real.
 
 Descrição
