@@ -15,3 +15,10 @@ Comunicação direta com o servidor: Uso de WebSockets para garantir comunicaç�
 Tecnologias Utilizadas
 WebSockets para comunicação em tempo real.
 React JS E Tailwind CSS para a estrutura e design de interface e manipulação dos dados.
+
+
+Imagens do projeto
+
+<img src ="https://github.com/jotta2021/chatFront/blob/master/src/prints/Captura%20de%20tela%202024-11-22%20154131.png?raw=true"/>
+<img src ="https://github.com/jotta2021/chatFront/blob/master/src/prints/Captura%20de%20tela%202024-11-22%20154206.png?raw=true"/>
+<img src ="https://github.com/jotta2021/chatFront/blob/master/src/prints/Captura%20de%20tela%202024-11-22%20154206.png?raw=true"/>
