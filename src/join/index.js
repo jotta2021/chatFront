@@ -18,7 +18,7 @@ const messagesEndRef = useRef(null)
   // Realiza a primeira conexão com o socket
   async function Connect() {
     if (name !== "") {
-      const socket = io.connect("https://chatapi-7yqx.onrender.com");
+      const socket = io.connect("https://chat-api-vert-psi.vercel.app");
       socket.emit("join", name);
       setSocket(socket);
     }
